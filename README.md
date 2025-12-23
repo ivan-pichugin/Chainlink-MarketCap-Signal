@@ -1,3 +1,6 @@
+![LINK](/chainlink1.png)
+![LINK](/chainlink2.png)
+
 # LINK Market Capitalization Shock Analysis (30-Minute Intervals)
 
 ## Project Description
